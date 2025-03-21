@@ -24,13 +24,13 @@ Segmentation:<br>
 Dice Coefficient: 90.66% <br>
 IOU: 83.09% <br>
 
-Classification (VGG-19):
+Classification (VGG-19): <br>
 Accuracy: 97.29% <br>
 Precision: 97.42% <br>
 Recall: 97.42% <br>
 F1-Score: 97.42% <br>
 
-Classification (DenseNet121):
+Classification (DenseNet121): <br>
 Accuracy: ~88–89% (compared to the higher accuracy of VGG-19)
 
 # Technology Used
