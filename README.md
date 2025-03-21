@@ -1,7 +1,7 @@
 # Project: skin-cancer-detection-and-classification-system-using-deep-learning
 
 # Aim
-The main goal of this project is to develop a deep learning-based system for early detection and classification of skin cancer from dermatoscopic images. I focused on two key tasks:
+The main goal of this project is to develop a deep learning-based system for early detection and classification of skin cancer from dermatoscopic images. I focused on two key tasks: <br>
 1)Skin Lesion Segmentation: Isolating the lesion area from the input images using a deep segmentation model. <br>
 2)Skin Cancer Classification: Categorizing the segmented lesions into different skin cancer types using CNN models. <br>
 
