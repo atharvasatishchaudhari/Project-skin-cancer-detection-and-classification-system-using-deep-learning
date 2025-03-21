@@ -48,4 +48,7 @@ vgg19.ipynb:
 This file includes the implementation of the VGG-19 based classification model. It details the model architecture, training process, and evaluation results. <br>
 
 skin-cancer-model-comparison-VGG19-DenseNet121.ipynb:
-In this notebook, I implemented experiments for both VGG-19 and DenseNet121 models. DenseNet121 is implemented here alongside VGG-19, and I compare their performance. The results show that VGG-19 outperforms DenseNet121 in terms of accuracy and other evaluation metrics.
+In this notebook, I implemented experiments for both VGG-19 and DenseNet121 models. DenseNet121 is implemented here alongside VGG-19, and I compare their performance. The results show that VGG-19 outperforms DenseNet121 in terms of accuracy and other evaluation metrics. <br>
+
+# Publication
+Present paper at International Conference on Computational Intelligence, Network and Security (IEEE) (22-23 December 2023) 
